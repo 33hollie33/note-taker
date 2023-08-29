@@ -4,7 +4,7 @@
   "description": "## Your Task",
   "main": "app.js",
   "scripts": {
-    "start": "node Develop/app.js",
+    "start": "node /app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
